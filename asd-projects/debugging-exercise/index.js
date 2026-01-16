@@ -1,3 +1,5 @@
+const { jsx } = require("react/jsx-runtime");
+
 $(document).ready(function () {
   
 /////////////////
